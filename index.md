@@ -15,7 +15,7 @@ Bem-vindos à página da unidade curricular de **Algoritmos e Programação**! E
 | Item | Detalhes |
 | :--- | :--- |
 | 👨‍🏫 **Professores** | Vini Cassol e Vitor Leaes |
-| 📧 **Contato** | [seu-email@instituicao.edu.br] |
+| 📧 **Contato** | vinicius.cassol@ulife.com.br |
 | 🕒 **Horário das Aulas** | Quintas e Sextas, das 19h00 às 21h50] |
 | 🏛️ **Laboratório** | 3203|
 
